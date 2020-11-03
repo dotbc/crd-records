@@ -1,0 +1,31 @@
+{
+  "data": {
+    "attributes": {
+      "csFieldOrder": [
+        "title",
+        "img-url",
+        "role",
+        "ipi",
+        "pro",
+        "email",
+        "website",
+        "recordings"
+      ],
+      "csFields": {
+      },
+      "csId": "the-sunshine-band",
+      "csTitle": "Participant",
+      "title": "The Sunshine Band"
+    },
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/the-sunshine-band",
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://cardstack.com/api/realms/card-catalog/cards/participant",
+          "type": "cards"
+        }
+      }
+    },
+    "type": "cards"
+  }
+}

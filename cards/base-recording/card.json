@@ -1,7 +1,6 @@
 {
   "data": {
     "attributes": {
-      "cover-art": "https://cardstack.github.io/boxel/media-registry/covers/medium/Cast-Me-283f58416e673b44e0ea33190eb0c7aa.jpg",
       "csFieldOrder": [
         "heading",
         "sub-heading",
@@ -37,29 +36,20 @@
       ],
       "csFields": {
       },
-      "csId": "a-very-very-old-world",
-      "csTitle": "Master Recording",
-      "duration": "3:01",
-      "genre": "Musical",
-      "header-image": "https://cardstack.github.io/boxel/media-registry/covers/medium/Cast-Me-283f58416e673b44e0ea33190eb0c7aa.jpg",
-      "heading": "A Very Very Old World",
-      "label": "CRD Records",
-      "language": "English (en_US)",
-      "parental-advisory": false,
+      "csId": "base-recording",
+      "csTitle": "Master Recording Template",
       "section-heading": "Master Details",
       "section-heading-2": "Musical Work",
       "section-heading-3": "Registrations",
       "section-heading-4": "Files",
       "section-heading-5": "Codes",
-      "section-heading-6": "Credits",
-      "sub-heading": "The Sunshine Band",
-      "title": "A Very Very Old World"
+      "section-heading-6": "Credits"
     },
-    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/a-very-very-old-world",
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/base-recording",
     "relationships": {
       "artist": {
         "data": {
-          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/the-sunshine-band",
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/base-participant",
           "type": "cards"
         }
       },

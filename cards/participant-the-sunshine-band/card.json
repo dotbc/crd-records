@@ -13,15 +13,15 @@
       ],
       "csFields": {
       },
-      "csId": "the-sunshine-band",
+      "csId": "participant-the-sunshine-band",
       "csTitle": "Participant",
       "title": "The Sunshine Band"
     },
-    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/the-sunshine-band",
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-the-sunshine-band",
     "relationships": {
       "csAdoptsFrom": {
         "data": {
-          "id": "https://cardstack.com/api/realms/card-catalog/cards/participant",
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/base-participant",
           "type": "cards"
         }
       }

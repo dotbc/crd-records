@@ -1,0 +1,34 @@
+{
+  "data": {
+    "attributes": {
+      "csFieldOrder": [
+        "title",
+        "img-url",
+        "role",
+        "ipi",
+        "pro",
+        "email",
+        "website",
+        "recordings"
+      ],
+      "csFields": {
+      },
+      "csId": "gary-and-the-whales",
+      "csTitle": "Participant",
+      "title": "Gary and the Whales"
+    },
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/gary-and-the-whales",
+    "meta": {
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/gary-and-the-whales"
+    },
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://builder-hub.stack.cards/api/realms/bunny-records/cards/participant-template",
+          "type": "cards"
+        }
+      }
+    },
+    "type": "cards"
+  }
+}

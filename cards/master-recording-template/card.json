@@ -37,8 +37,7 @@
         "mastering-engineer",
         "mixing-engineer",
         "recording-engineer",
-        "background-singer",
-        "writers"
+        "background-singer"
       ],
       "csFieldSets": {
         "embedded": [
@@ -62,7 +61,6 @@
           "duration",
           "language",
           "producer",
-          "writers",
           "copyright",
           "cover-art",
           "verifi-id",
@@ -464,22 +462,6 @@
 
             },
             "csTitle": "Producer"
-          },
-          "relationships": {
-            "csAdoptsFrom": {
-              "data": {
-                "id": "https://base.cardstack.com/public/cards/base",
-                "type": "cards"
-              }
-            }
-          }
-        },
-        "writers": {
-          "attributes": {
-            "csFieldArity": "plural",
-            "csFields": {
-            },
-            "csTitle": "Writers"
           },
           "relationships": {
             "csAdoptsFrom": {

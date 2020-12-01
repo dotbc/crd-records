@@ -168,6 +168,9 @@
       "csTitle": "Participant Template"
     },
     "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-template",
+    "meta": {
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/participant-template"
+    },
     "relationships": {
       "csAdoptsFrom": {
         "data": {

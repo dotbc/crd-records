@@ -24,7 +24,7 @@
     "relationships": {
       "csAdoptsFrom": {
         "data": {
-          "id": "https://builder-hub.stack.cards/api/realms/bunny-records/cards/participant-template",
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-template",
           "type": "cards"
         }
       }

@@ -255,7 +255,7 @@
     },
     "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/musical-work-template",
     "meta": {
-      "cardDir": "/Users/burcunoyan/crd-records/cards/musical-work-template"
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/musical-work-template"
     },
     "relationships": {
       "csAdoptsFrom": {

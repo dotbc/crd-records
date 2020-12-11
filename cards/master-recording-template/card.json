@@ -649,7 +649,7 @@
     },
     "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/master-recording-template",
     "meta": {
-      "cardDir": "/Users/burcunoyan/music-data/fuga-v2-cards/cards/master-recording-template"
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/master-recording-template"
     },
     "relationships": {
       "csAdoptsFrom": {

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "attributes": {
+      "csFieldOrder": [
+        "title",
+        "img-url",
+        "role",
+        "ipi",
+        "pro",
+        "email",
+        "website",
+        "recordings"
+      ],
+      "csFields": {
+      },
+      "csId": "participant-mad-max",
+      "csTitle": "Participant",
+      "title": "Mad Max"
+    },
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-mad-max",
+    "meta": {
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/participant-mad-max"
+    },
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant",
+          "type": "cards"
+        }
+      }
+    },
+    "type": "cards"
+  }
+}

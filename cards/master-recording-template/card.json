@@ -81,12 +81,27 @@
       "csFields": {
         "artist": {
           "attributes": {
-            "csFieldArity": "singular",
+            "csFieldArity": "plural",
             "csFields": {
-              
+              "key": {
+                "attributes": {
+                  "csFieldArity": "singular",
+                  "csFields": {
+                  }
+                },
+                "relationships": {
+                  "csAdoptsFrom": {
+                    "data": {
+                      "id": "https://base.cardstack.com/public/cards/string-field",
+                      "type": "cards"
+                    }
+                  }
+                }
+              }
             },
+            "key": "participant",
             "csId": "artist",
-            "csTitle": "Artist"
+            "csTitle": "Main Artist"
           },
           "relationships": {
             "csAdoptsFrom": {
@@ -99,7 +114,7 @@
         },
         "background-singer": {
           "attributes": {
-            "csFieldArity": "singular",
+            "csFieldArity": "plural",
             "csFields": {
               
             },
@@ -184,7 +199,7 @@
         },
         "genre": {
           "attributes": {
-            "csFieldArity": "singular",
+            "csFieldArity": "plural",
             "csFields": {
               
             },
@@ -235,7 +250,7 @@
         },
         "isrc": {
           "attributes": {
-            "csFieldArity": "singular",
+            "csFieldArity": "plural",
             "csFields": {
               
             },
@@ -252,7 +267,7 @@
         },
         "label": {
           "attributes": {
-            "csFieldArity": "singular",
+            "csFieldArity": "plural",
             "csFields": {
               
             },
@@ -269,7 +284,7 @@
         },
         "language": {
           "attributes": {
-            "csFieldArity": "singular",
+            "csFieldArity": "plural",
             "csFields": {
               
             },
@@ -388,7 +403,7 @@
         },
         "mastering-engineer": {
           "attributes": {
-            "csFieldArity": "singular",
+            "csFieldArity": "plural",
             "csFields": {
               
             },
@@ -405,7 +420,7 @@
         },
         "mixing-engineer": {
           "attributes": {
-            "csFieldArity": "singular",
+            "csFieldArity": "plural",
             "csFields": {
               
             },
@@ -424,8 +439,23 @@
           "attributes": {
             "csFieldArity": "singular",
             "csFields": {
-              
+              "key": {
+                "attributes": {
+                  "csFieldArity": "singular",
+                  "csFields": {
+                  }
+                },
+                "relationships": {
+                  "csAdoptsFrom": {
+                    "data": {
+                      "id": "https://base.cardstack.com/public/cards/string-field",
+                      "type": "cards"
+                    }
+                  }
+                }
+              }
             },
+            "key": "musical-work-template",
             "csId": "musical-work",
             "csTitle": "Musical Work"
           },
@@ -459,8 +489,23 @@
           "attributes": {
             "csFieldArity": "plural",
             "csFields": {
-
+              "key": {
+                "attributes": {
+                  "csFieldArity": "singular",
+                  "csFields": {
+                  }
+                },
+                "relationships": {
+                  "csAdoptsFrom": {
+                    "data": {
+                      "id": "https://base.cardstack.com/public/cards/string-field",
+                      "type": "cards"
+                    }
+                  }
+                }
+              }
             },
+            "key": "participant",
             "csTitle": "Producer"
           },
           "relationships": {
@@ -491,7 +536,7 @@
         },
         "recording-engineer": {
           "attributes": {
-            "csFieldArity": "singular",
+            "csFieldArity": "plural",
             "csFields": {
               
             },
@@ -585,19 +630,7 @@
           "relationships": {
             "csAdoptsFrom": {
               "data": {
-                "id": "https://base.cardstack.com/public/cards/string-field",
-                "type": "cards"
-              }
-            },
-            "musical-work": {
-              "data": {
-                "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/musical-work-template",
-                "type": "cards"
-              }
-            },
-            "artist": {
-              "data": {
-                "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-template",
+                "id": "https://base.cardstack.com/public/cards/base",
                 "type": "cards"
               }
             }
@@ -616,7 +649,7 @@
     },
     "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/master-recording-template",
     "meta": {
-      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/master-recording-template"
+      "cardDir": "/Users/burcunoyan/music-data/fuga-v2-cards/cards/master-recording-template"
     },
     "relationships": {
       "csAdoptsFrom": {

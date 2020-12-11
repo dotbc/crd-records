@@ -13,18 +13,18 @@
       ],
       "csFields": {
       },
-      "csId": "gary-and-the-whales",
+      "csId": "participant-light-shadow",
       "csTitle": "Participant",
-      "title": "Gary and the Whales"
+      "title": "Light & Shadow"
     },
-    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/gary-and-the-whales",
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-light-shadow",
     "meta": {
-      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/gary-and-the-whales"
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/participant-light-shadow"
     },
     "relationships": {
       "csAdoptsFrom": {
         "data": {
-          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-template",
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant",
           "type": "cards"
         }
       }

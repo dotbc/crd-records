@@ -13,18 +13,18 @@
       ],
       "csFields": {
       },
-      "csId": "the-sunshine-band",
+      "csId": "participant-the-sunshine-band",
       "csTitle": "Participant",
       "title": "The Sunshine Band"
     },
-    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/the-sunshine-band",
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-the-sunshine-band",
     "meta": {
-      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/the-sunshine-band"
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/participant-the-sunshine-band"
     },
     "relationships": {
       "csAdoptsFrom": {
         "data": {
-          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-template",
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant",
           "type": "cards"
         }
       }

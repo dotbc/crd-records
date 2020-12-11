@@ -21,7 +21,8 @@
           "title",
           "img-url",
           "website",
-          "role"
+          "role",
+          "recordings"
         ],
         "isolated": [
           "ipi",
@@ -109,7 +110,7 @@
           "relationships": {
             "csAdoptsFrom": {
               "data": {
-                "id": "https://base.cardstack.com/public/cards/string-field",
+                "id": "https://base.cardstack.com/public/cards/integer-field",
                 "type": "cards"
               }
             }
@@ -164,12 +165,12 @@
           }
         }
       },
-      "csId": "participant-template",
+      "csId": "participant",
       "csTitle": "Participant Template"
     },
-    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-template",
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant",
     "meta": {
-      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/participant-template"
+      "cardDir": "/Users/burcunoyan/music-data/fuga-v2-cards/cards/participant"
     },
     "relationships": {
       "csAdoptsFrom": {

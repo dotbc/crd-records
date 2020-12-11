@@ -1,0 +1,76 @@
+{
+  "data": {
+    "attributes": {
+      "cover-art": "https://cardstack.github.io/boxel/media-registry/covers/medium/Pinnacles-7c4366eafdd72991de197bc261865b25.jpg",
+      "csFieldOrder": [
+        "heading",
+        "sub-heading",
+        "header-image",
+        "section-heading",
+        "title",
+        "artist",
+        "label",
+        "genre",
+        "duration",
+        "language",
+        "recording-date",
+        "release-date",
+        "parental-advisory",
+        "copyright",
+        "section-heading-2",
+        "musical-work",
+        "section-heading-3",
+        "verifi-id",
+        "truncated-verifi-id",
+        "section-heading-4",
+        "cover-art",
+        "section-heading-5",
+        "isrc",
+        "catalog-no",
+        "section-heading-6",
+        "artist",
+        "producer",
+        "mastering-engineer",
+        "mixing-engineer",
+        "recording-engineer",
+        "background-singer"
+      ],
+      "csId": "recording-pinnacles",
+      "csTitle": "Master Recording",
+      "duration": "3:22",
+      "genre": ["Alternative"],
+      "header-image": "https://cardstack.github.io/boxel/media-registry/covers/medium/Pinnacles-7c4366eafdd72991de197bc261865b25.jpg",
+      "heading": "Pinnacles",
+      "label": ["CRD Records"],
+      "language": ["English (en_US)"],
+      "parental-advisory": false,
+      "section-heading": "Master Details",
+      "section-heading-2": "Musical Work",
+      "section-heading-3": "Registrations",
+      "section-heading-4": "Files",
+      "section-heading-5": "Codes",
+      "section-heading-6": "Credits",
+      "sub-heading": "Gary and the Whales",
+      "title": "Pinnacles"
+    },
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/recording-pinnacles",
+    "meta": {
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/recording-pinnacles"
+    },
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/master-recording-template",
+          "type": "cards"
+        }
+      },
+      "artist": {
+        "data": [{
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-gary-and-the-whales",
+          "type": "cards"
+        }]
+      }
+    },
+    "type": "cards"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "data": {
+    "attributes": {
+      "cover-art": "https://cardstack.github.io/boxel/media-registry/covers/medium/Been-There-Done-That-81113b1f6b45beaba6e2918715958186.jpg",
+      "csFieldOrder": [
+        "heading",
+        "sub-heading",
+        "header-image",
+        "section-heading",
+        "title",
+        "artist",
+        "label",
+        "genre",
+        "duration",
+        "language",
+        "recording-date",
+        "release-date",
+        "parental-advisory",
+        "copyright",
+        "section-heading-2",
+        "musical-work",
+        "section-heading-3",
+        "verifi-id",
+        "truncated-verifi-id",
+        "section-heading-4",
+        "cover-art",
+        "section-heading-5",
+        "isrc",
+        "catalog-no",
+        "section-heading-6",
+        "artist",
+        "producer",
+        "mastering-engineer",
+        "mixing-engineer",
+        "recording-engineer",
+        "background-singer"
+      ],
+      "csId": "recording-been-there-done-that",
+      "csTitle": "Master Recording",
+      "duration": "2:49",
+      "genre": ["Alternative"],
+      "header-image": "https://cardstack.github.io/boxel/media-registry/covers/medium/Been-There-Done-That-81113b1f6b45beaba6e2918715958186.jpg",
+      "heading": "Been There Done That",
+      "label": ["CRD Records"],
+      "language": ["English (en_US)"],
+      "parental-advisory": false,
+      "section-heading": "Master Details",
+      "section-heading-2": "Musical Work",
+      "section-heading-3": "Registrations",
+      "section-heading-4": "Files",
+      "section-heading-5": "Codes",
+      "section-heading-6": "Credits",
+      "sub-heading": "Gary and the Whales",
+      "title": "Been There Done That"
+    },
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/recording-been-there-done-that",
+    "meta": {
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/recording-been-there-done-that"
+    },
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/master-recording-template",
+          "type": "cards"
+        }
+      },
+      "artist": {
+        "data": [{
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-gary-and-the-whales",
+          "type": "cards"
+        }]
+      }
+    },
+    "type": "cards"
+  }
+}

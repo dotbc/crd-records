@@ -1,8 +1,7 @@
 {
   "data": {
     "attributes": {
-      "cover-art": "https://cardstack.github.io/boxel/media-registry/covers/medium/Cast-Me-283f58416e673b44e0ea33190eb0c7aa.jpg",
-      "csCreated": "2020-08-03T15:38:30.625Z",
+      "cover-art": "https://cardstack.github.io/boxel/media-registry/covers/medium/Home-Sweet-Home-756817a112cfbed5ddfe8ef98c21255f.jpg",
       "csFieldOrder": [
         "heading",
         "sub-heading",
@@ -36,15 +35,14 @@
         "recording-engineer",
         "background-singer"
       ],
-      "csId": "a-very-very-old-world",
+      "csId": "recording-home-sweet-home",
       "csTitle": "Master Recording",
-      "csUpdated": "2020-10-13T17:14:32.589Z",
       "duration": "3:01",
-      "genre": "Musical",
-      "header-image": "https://cardstack.github.io/boxel/media-registry/covers/medium/Cast-Me-283f58416e673b44e0ea33190eb0c7aa.jpg",
-      "heading": "A Very Very Old World",
-      "label": "CRD Records",
-      "language": "English (en_US)",
+      "genre": ["Alternative"],
+      "header-image": "https://cardstack.github.io/boxel/media-registry/covers/medium/Home-Sweet-Home-756817a112cfbed5ddfe8ef98c21255f.jpg",
+      "heading": "Home Sweet Home",
+      "label": ["CRD Records"],
+      "language": ["English (en_US)"],
       "parental-advisory": false,
       "section-heading": "Master Details",
       "section-heading-2": "Musical Work",
@@ -52,12 +50,12 @@
       "section-heading-4": "Files",
       "section-heading-5": "Codes",
       "section-heading-6": "Credits",
-      "sub-heading": "The Sunshine Band",
-      "title": "A Very Very Old World"
+      "sub-heading": "Gary and the Whales",
+      "title": "Home Sweet Home"
     },
-    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/a-very-very-old-world",
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/recording-home-sweet-home",
     "meta": {
-      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/a-very-very-old-world"
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/recording-home-sweet-home"
     },
     "relationships": {
       "csAdoptsFrom": {
@@ -67,10 +65,10 @@
         }
       },
       "artist": {
-        "data": {
-          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/the-sunshine-band",
+        "data": [{
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-gary-and-the-whales",
           "type": "cards"
-        }
+        }]
       }
     },
     "type": "cards"

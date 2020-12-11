@@ -1,0 +1,76 @@
+{
+  "data": {
+    "attributes": {
+      "cover-art": "https://cardstack.github.io/boxel/media-registry/covers/medium/The-Vamps-of-the-World-47b23f3431a85503ffa2566f2f8678bc.jpg",
+      "csFieldOrder": [
+        "heading",
+        "sub-heading",
+        "header-image",
+        "section-heading",
+        "title",
+        "artist",
+        "label",
+        "genre",
+        "duration",
+        "language",
+        "recording-date",
+        "release-date",
+        "parental-advisory",
+        "copyright",
+        "section-heading-2",
+        "musical-work",
+        "section-heading-3",
+        "verifi-id",
+        "truncated-verifi-id",
+        "section-heading-4",
+        "cover-art",
+        "section-heading-5",
+        "isrc",
+        "catalog-no",
+        "section-heading-6",
+        "artist",
+        "producer",
+        "mastering-engineer",
+        "mixing-engineer",
+        "recording-engineer",
+        "background-singer"
+      ],
+      "csId": "recording-this-is-the-end",
+      "csTitle": "Master Recording",
+      "duration": "2:22",
+      "genre": ["Metal"],
+      "header-image": "https://cardstack.github.io/boxel/media-registry/covers/medium/The-Vamps-of-the-World-47b23f3431a85503ffa2566f2f8678bc.jpg",
+      "heading": "This Is The End",
+      "label": ["CRD Records"],
+      "language": ["English (en_US)"],
+      "parental-advisory": false,
+      "section-heading": "Master Details",
+      "section-heading-2": "Musical Work",
+      "section-heading-3": "Registrations",
+      "section-heading-4": "Files",
+      "section-heading-5": "Codes",
+      "section-heading-6": "Credits",
+      "sub-heading": "Light & Shadow",
+      "title": "This Is The End"
+    },
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/recording-this-is-the-end",
+    "meta": {
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/recording-this-is-the-end"
+    },
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/master-recording-template",
+          "type": "cards"
+        }
+      },
+      "artist": {
+        "data": [{
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-light-shadow",
+          "type": "cards"
+        }]
+      }
+    },
+    "type": "cards"
+  }
+}

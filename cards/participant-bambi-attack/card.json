@@ -1,0 +1,34 @@
+{
+  "data": {
+    "attributes": {
+      "csFieldOrder": [
+        "title",
+        "img-url",
+        "role",
+        "ipi",
+        "pro",
+        "email",
+        "website",
+        "recordings"
+      ],
+      "csFields": {
+      },
+      "csId": "participant-bambi-attack",
+      "csTitle": "Participant",
+      "title": "Bambi Attack"
+    },
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-bambi-attack",
+    "meta": {
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/participant-bambi-attack"
+    },
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant",
+          "type": "cards"
+        }
+      }
+    },
+    "type": "cards"
+  }
+}

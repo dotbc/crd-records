@@ -1,0 +1,76 @@
+{
+  "data": {
+    "attributes": {
+      "cover-art": "https://cardstack.github.io/boxel/media-registry/covers/medium/Innocent-Kittens-d7a7ab8d32b59a21fdd869d616324d9f.jpg",
+      "csFieldOrder": [
+        "heading",
+        "sub-heading",
+        "header-image",
+        "section-heading",
+        "title",
+        "artist",
+        "label",
+        "genre",
+        "duration",
+        "language",
+        "recording-date",
+        "release-date",
+        "parental-advisory",
+        "copyright",
+        "section-heading-2",
+        "musical-work",
+        "section-heading-3",
+        "verifi-id",
+        "truncated-verifi-id",
+        "section-heading-4",
+        "cover-art",
+        "section-heading-5",
+        "isrc",
+        "catalog-no",
+        "section-heading-6",
+        "artist",
+        "producer",
+        "mastering-engineer",
+        "mixing-engineer",
+        "recording-engineer",
+        "background-singer"
+      ],
+      "csId": "recording-home-schooling",
+      "csTitle": "Master Recording",
+      "duration": "2:48",
+      "genre": ["Pop"],
+      "header-image": "https://cardstack.github.io/boxel/media-registry/covers/medium/Innocent-Kittens-d7a7ab8d32b59a21fdd869d616324d9f.jpg",
+      "heading": "Home Schooling",
+      "label": ["CRD Records"],
+      "language": ["English (en_US)"],
+      "parental-advisory": false,
+      "section-heading": "Master Details",
+      "section-heading-2": "Musical Work",
+      "section-heading-3": "Registrations",
+      "section-heading-4": "Files",
+      "section-heading-5": "Codes",
+      "section-heading-6": "Credits",
+      "sub-heading": "Bambi Attack",
+      "title": "Home Schooling"
+    },
+    "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/recording-home-schooling",
+    "meta": {
+      "cardDir": "/Users/burcunoyan/music-data/crd-records/cards/recording-home-schooling"
+    },
+    "relationships": {
+      "csAdoptsFrom": {
+        "data": {
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/master-recording-template",
+          "type": "cards"
+        }
+      },
+      "artist": {
+        "data": [{
+          "id": "https://builder-hub.stack.cards/api/realms/crd-records/cards/participant-bambi-attack",
+          "type": "cards"
+        }]
+      }
+    },
+    "type": "cards"
+  }
+}
